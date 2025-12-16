@@ -43,4 +43,5 @@ streamlit run ./src/main.py
 Now your WebQuery-AI is live at http://localhost:8501
 
 ## Screenshots
-
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 155638" src="https://github.com/user-attachments/assets/3ab1a9d0-1e90-4bd6-a2ad-4a40e906bbb4" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-10 155906" src="https://github.com/user-attachments/assets/d9a9e1e4-208c-4a6b-91b6-8f53a79234e5" />
